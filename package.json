@@ -1,0 +1,14 @@
+{
+  "name": "ssr-helper",
+  "version": "1.0.0",
+  "description": "ShadowsocksR Helper",
+  "main": "index.js",
+  "author": "Hsiaoyi Hsu <xreamxu@gmail.com>",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "js-base64": "^2.3.2"
+  }
+}
